@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allie-source
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning CSS and C#
+- 🌱 I’m currently learning Javascript and C#
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me huntd7@mail.lcc.edu
 - 😄 Pronouns: she/her/hers
