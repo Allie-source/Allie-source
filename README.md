@@ -1,11 +1,46 @@
-- 👋 Hi, I’m @Allie-source
-- 👀 I’m interested in programming
+
+<pre>  ___  _ _ _                   _   _ 
+ / _ \| | (_)                 | | | |
+/ /_\ \ | |_ ___  ___  _ __   | |_| |
+|  _  | | | / __|/ _ \| '_ \  |  _  |
+| | | | | | \__ \ (_) | | | | | | | |
+\_| |_/_|_|_|___/\___/|_| |_| \_| |_/
+</pre>                                                                     
+# About Me
+- 👋 Hi, I’m
+- 👀 I’m 
 - 🌱 I’m currently learning Javascript and C#
-- 💞️ I’m looking to collaborate on anything
+- 💞️ looking to collaborate on anything
 - 📫 How to reach me huntd7@mail.lcc.edu
 - 😄 Pronouns: she/her/hers
 
-<!---
-Allie-source/Allie-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/tayyabadev">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=cs,java,python,js&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/tayyabadev">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
