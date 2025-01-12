@@ -39,7 +39,7 @@
 ### Others
 <a href="https://github.com/Allie-source">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,anaconda,sqlite,mysql,linux,ubuntu,git,github,arduino,raspberrypi,phpstorm,ps,discord,gmail,stackoverflow,ableton&perline=6" /> 
+       <img src="https://skillicons.dev/icons?i=vscode,visualstudio,anaconda,sqlite,mysql,linux,ubuntu,git,github,arduino,raspberrypi,phpstorm,ps,stackoverflow,ableton,discord,gmail&perline=7" /> 
 </div>
 </a>
 </td>
