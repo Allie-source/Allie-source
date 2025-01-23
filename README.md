@@ -11,7 +11,7 @@
 # About Me
 - Hi, I'm Allison.
 - I have been learning programming 
-- I’m currently learning Javascript and C#
+- I’m currently learning PHP and mobile app development
 - looking to collaborate on anything
 - How to reach me huntd7@mail.lcc.edu
 
